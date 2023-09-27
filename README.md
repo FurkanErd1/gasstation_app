@@ -1,6 +1,6 @@
 # PetrolOfis
-![Ekran görüntüsü 2023-08-19 193136](https://github.com/FurkanErd1/PetrolOfis_Uygulamas-/assets/114918636/5e8b903b-69c0-486a-9010-e507b176b954)
-![Ekran görüntüsü 2023-08-19 193151](https://github.com/FurkanErd1/PetrolOfis_Uygulamas-/assets/114918636/c08668dd-e602-4512-a18e-189ad8f36850)
-![Ekran görüntüsü 2023-08-19 193218](https://github.com/FurkanErd1/PetrolOfis_Uygulamas-/assets/114918636/4b99ad6a-c5e0-4cc7-93f5-c16de8b103df)
-![Ekran görüntüsü 2023-08-19 193251](https://github.com/FurkanErd1/PetrolOfis_Uygulamas-/assets/114918636/e72abcbf-4618-42f0-ac6b-2d805147bf8e)
-![Ekran görüntüsü 2023-08-19 193302](https://github.com/FurkanErd1/PetrolOfis_Uygulamas-/assets/114918636/1e3825e1-8e55-436e-aee0-b7aaaaf363f1)
+![Ekran görüntüsü 2023-08-19 193136](https://github.com/FurkanErd1/PetrolOfis_Uygulamas-/assets/114918636/8b0eff9e-697d-4785-b8c3-f70ead876cc3)
+![Ekran görüntüsü 2023-08-19 193151](https://github.com/FurkanErd1/PetrolOfis_Uygulamas-/assets/114918636/a463d853-9380-4189-8ae8-5db49c3d2e7e)
+![Ekran görüntüsü 2023-08-19 193218](https://github.com/FurkanErd1/PetrolOfis_Uygulamas-/assets/114918636/76bacaf1-08db-4252-bed0-b18dab0e263e)
+![Ekran görüntüsü 2023-08-19 193251](https://github.com/FurkanErd1/PetrolOfis_Uygulamas-/assets/114918636/e1246ee0-6f0d-43b5-8ea5-450a93cd2460)
+![Ekran görüntüsü 2023-08-19 193302](https://github.com/FurkanErd1/PetrolOfis_Uygulamas-/assets/114918636/7e441525-37ab-4d93-a5dd-7034c6148587)
